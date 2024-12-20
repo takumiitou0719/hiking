@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+li{
+    display: inline;
+}
+img{
+    width: 50;
+    height: 50;
+}
